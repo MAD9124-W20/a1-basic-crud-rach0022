@@ -1,12 +1,12 @@
 {
-  "name": "mad9124-a1-basic-crud",
+  "name": "mad9124-a1-basic-crud-rach0022",
   "version": "1.0.0",
-  "description": "",
+  "description": "the base for a RESTful api using node and the express framework",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ravi Rachamalla",
   "license": "ISC"
 }
