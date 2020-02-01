@@ -8,5 +8,17 @@
   },
   "keywords": [],
   "author": "Ravi Rachamalla",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAD9124-W20/a1-basic-crud-rach0022.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MAD9124-W20/a1-basic-crud-rach0022/issues"
+  },
+  "homepage": "https://github.com/MAD9124-W20/a1-basic-crud-rach0022#readme"
 }
