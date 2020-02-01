@@ -1,10 +1,10 @@
 module.exports = [
     {
-        id : 1345, 
+        id : 2346, 
         code : "WZD", 
-        title : "Wizardry 101", 
-        description: "Learn various skills for all kinds of adminsitrative wizardry positions",
-        url: "http://school.wizard.com/wzd1345"
+        title : "Advanced Wizardry", 
+        description: "Learn The advanced course covers topics such as spell casting, wand battles and taming dragons for harvesting potion materials.",
+        url: "http://school.wizard.com/wzd2346"
     },
     {
         id : 1242, 
