@@ -25,6 +25,7 @@ const validateCourseId = (req, res, nextStep) => {
             }]
         });
     } else {
+        req.courseId = cID; 
         req.courseIndex = index;
         nextStep();
     }
